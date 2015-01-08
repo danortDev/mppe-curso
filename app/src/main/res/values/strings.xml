@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RedBa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="descripcion_image_view">White Android Image</string>
+    <string name="android">Android</string>
+    <string name="news_example_title">Capacitación en Android</string>
+    <string name="news_example_subtitle">El equipo del ministerio de Educación recibe capacitación en Android</string>
+    <string name="news_example_content">Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad. Richard McClintock, un profesor de Latin de la Universidad de Hampden-Sydney en Virginia, encontró una de las palabras más oscuras de la lengua del latín, "consecteur", en un pasaje de Lorem Ipsum, y al seguir leyendo distintos textos del latín, descubrió la fuente indudable. Lorem Ipsum viene de las secciones 1.10.32 y 1.10.33 de "de Finnibus Bonorum et Malorum" (Los Extremos del Bien y El Mal) por Cicero, escrito en el año 45 antes de Cristo. Este libro es un tratado de teoría de éticas, muy popular durante el Renacimiento. La primera linea del Lorem Ipsum, "Lorem ipsum dolor sit amet..", viene de una linea en la sección 1.10.32
+
+El trozo de texto estándar de Lorem Ipsum usado desde el año 1500 es reproducido debajo para aquellos interesados. Las secciones 1.10.32 y 1.10.33 de "de Finibus Bonorum et Malorum" por Cicero son también reproducidas en su forma original exacta, acompañadas por versiones en Inglés de la traducción realizada en 1914 por H. Rackham.</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="atras">Atrás</string>
+
+    <!-- Crash Report -->
+    <string name="report">Report</string>
+    <string name="send_crash_report">Send Crash Report</string>
+    <string name="crash_report_dialog_message">Oops! Our app has crashed. Would you like to send a Crash Report?</string>
+    <string name="crash_report_subject">Custom Crash Report</string>
+    <string name="crash_report_to">fdefreitas6@gmail.com</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="default_state">--Select State--</string>
+    <string-array name="states">
+        <item>@string/default_state</item>
+        <item>Amazonas</item>
+        <item>Anzoátegui</item>
+        <item>Apure</item>
+        <item>Aragua</item>
+        <item>Barinas</item>
+        <item>Bolivar</item>
+        <item>Carabobo</item>
+        <item>Cojedes</item>
+        <item>Delta Amacuro</item>
+        <item>Dependecias Federales</item>
+        <item>Distrito Capital</item>
+        <item>Falcón</item>
+        <item>Guárico</item>
+        <item>Guayana Esequiba</item>
+        <item>Lara</item>
+        <item>Mérida</item>
+        <item>Miranda</item>
+        <item>Monagas</item>
+        <item>Nueva Esparta</item>
+        <item>Portuguesa</item>
+        <item>Sucre</item>
+        <item>Táchira</item>
+        <item>Trujillo</item>
+        <item>Vargas</item>
+        <item>Yaracuy</item>
+        <item>Zulia</item>
+    </string-array>
+
+    <string name="default_municipality">--Select Municipality--</string>
+
+    <string-array name="capital_municipalities">
+        <item>@string/default_municipality</item>
+        <item>Baruta</item>
+        <item>Chacao</item>
+        <item>El Hatillo</item>
+        <item>Libertador</item>
+        <item>Sucre</item>
+    </string-array>
+
+</resources>
