@@ -1,4 +1,4 @@
-package ve.gob.mppe.redba;
+package ve.com.fdefreitas.curso.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

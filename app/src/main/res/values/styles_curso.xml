@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Curso" parent="AppTheme">
+    </style>
+
+    <style name="Curso.Text">
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="Curso.Text.Title">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Curso.Text.Subtitle">
+        <item name="android:textColor">@color/neutral</item>
+    </style>
+
+    <style name="Curso.Text.Content">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Curso.Button">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Curso.Button.Primary">
+        <item name="android:background">@color/info</item>
+    </style>
+</resources>

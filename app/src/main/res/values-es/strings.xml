@@ -5,4 +5,12 @@
     <string name="default_state">--Seleccione Estado--</string>
     <string name="default_municipality">--Seleccione Municipio--</string>
     <string name="action_refresh">Actualizar</string>
+    <string name="action_map">Mapa</string>
+    <string name="minicipality">Municipio</string>
+    <string name="state">Estado</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="atras">Atras</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="search">Buscar</string>
 </resources>

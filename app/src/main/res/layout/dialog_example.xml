@@ -24,7 +24,7 @@
             android:layout_toRightOf="@+id/imageView"
             android:layout_toEndOf="@+id/imageView"
             android:text="@string/news_example_title"
-            style="@style/Redba.Text.Title"
+            style="@style/Curso.Text.Title"
             android:layout_width="200dp"
             android:layout_height="120dp"/>
 
@@ -33,7 +33,7 @@
             android:layout_below="@+id/imageView"
             android:layout_alignLeft="@+id/content_text_view"
             android:text="@string/news_example_subtitle"
-            style="@style/Redba.Text.Subtitle"
+            style="@style/Curso.Text.Subtitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
     </RelativeLayout>

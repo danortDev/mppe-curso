@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso.iml" filepath="$PROJECT_DIR$/Curso.iml" />
       <module fileurl="file://$PROJECT_DIR$/RedBa.iml" filepath="$PROJECT_DIR$/RedBa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
